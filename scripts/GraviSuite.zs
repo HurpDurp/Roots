@@ -8,4 +8,4 @@
 <GraviSuite:itemSimpleItem:5>.displayName = "Vajra Core";
 <GraviSuite:itemSimpleItem:6>.displayName = "Engine Boost";
 
-<GraviSuite:BlockRelocatorPortal>.displayName = "Relocator Portal";
+//<GraviSuite:BlockRelocatorPortal>.displayName = "Relocator Portal";
