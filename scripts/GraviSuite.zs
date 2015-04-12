@@ -6,6 +6,6 @@
 <GraviSuite:itemSimpleItem:3>.displayName = "Gravitation Engine";
 <GraviSuite:itemSimpleItem:4>.displayName = "Magnetron";
 <GraviSuite:itemSimpleItem:5>.displayName = "Vajra Core";
-<GraviSuite:itemSimpleItem:6>.displayName = "Engine Boost";
+<GraviSuite:itemSimpleItem:6>.displayName = "Engine Booster";
 
 //<GraviSuite:BlockRelocatorPortal>.displayName = "Relocator Portal";
