@@ -60,6 +60,13 @@
       "count_max": 1
     },
     {
+      "item": "minecraft:rail",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 4,
+      "count_max": 8
+    },
+    {
       "item": "minecraft:melon_seeds",
       "damage": 0,
       "weight": 10,
@@ -109,6 +116,13 @@
       "count_max": 16
     },
     {
+      "item": "IC2:itemShardIridium",
+      "damage": 0,
+      "weight": 8,
+      "count_min": 2,
+      "count_max": 5
+    },
+    {
       "item": "IC2:itemIngot",
       "damage": 0,
       "weight": 9,
@@ -121,6 +135,55 @@
       "weight": 8,
       "count_min": 1,
       "count_max": 5
+    },
+    {
+      "item": "Railcraft:fluid.creosote.bottle",
+      "damage": 0,
+      "weight": 20,
+      "count_min": 4,
+      "count_max": 16
+    },
+    {
+      "item": "Railcraft:tool.crowbar",
+      "damage": 0,
+      "weight": 10,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Railcraft:tool.steel.shears",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Railcraft:tool.steel.shovel",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Railcraft:tool.steel.pickaxe",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Railcraft:tool.steel.axe",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Railcraft:ingot",
+      "damage": 0,
+      "weight": 10,
+      "count_min": 5,
+      "count_max": 9
     },
     {
       "item": "minecraft:minecart",
@@ -144,6 +207,13 @@
       "count_max": 3
     },
     {
+      "item": "minecraft:rail",
+      "damage": 0,
+      "weight": 30,
+      "count_min": 8,
+      "count_max": 32
+    },
+    {
       "item": "minecraft:hopper_minecart",
       "damage": 0,
       "weight": 5,
@@ -151,9 +221,65 @@
       "count_max": 1
     },
     {
+      "item": "Railcraft:part.tie",
+      "damage": 0,
+      "weight": 20,
+      "count_min": 4,
+      "count_max": 16
+    },
+    {
+      "item": "Railcraft:fuel.coke",
+      "damage": 0,
+      "weight": 20,
+      "count_min": 4,
+      "count_max": 16
+    },
+    {
+      "item": "Railcraft:part.gear",
+      "damage": 3,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 8
+    },
+    {
+      "item": "Railcraft:cube",
+      "damage": 2,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Railcraft:cart.tnt.wood",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 3
+    },
+    {
+      "item": "Railcraft:cart.work",
+      "damage": 0,
+      "weight": 8,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "rftools:unknownDimlet",
+      "damage": 0,
+      "weight": 50,
+      "count_min": 1,
+      "count_max": 3
+    },
+    {
       "item": "MineFactoryReloaded:safarinet.singleuse",
       "damage": 0,
       "weight": 25,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "MineFactoryReloaded:safarinet.jailer",
+      "damage": 0,
+      "weight": 15,
       "count_min": 1,
       "count_max": 1
     },
@@ -174,126 +300,6 @@
     {
       "item": "ExtraUtilities:divisionSigil",
       "damage": 0,
-      "weight": 1,
-      "count_min": 1,
-      "count_max": 1
-    },
-    {
-      "item": "ComputerCraft:treasureDisk",
-      "damage": 0,
-      "nbt": {
-        "colour^i": 5744206,
-        "subPath": "dan200/alongtimeago",
-        "title": "\"alongtimeago\" by dan200"
-      },
-      "weight": 1,
-      "count_min": 1,
-      "count_max": 1
-    },
-    {
-      "item": "ComputerCraft:treasureDisk",
-      "damage": 0,
-      "nbt": {
-        "colour^i": 3368652,
-        "subPath": "fredthead/protector",
-        "title": "\"protector\" by fredthead"
-      },
-      "weight": 1,
-      "count_min": 1,
-      "count_max": 1
-    },
-    {
-      "item": "ComputerCraft:treasureDisk",
-      "damage": 0,
-      "nbt": {
-        "colour^i": 3368652,
-        "subPath": "GopherAtl/battleship",
-        "title": "\"battleship\" by GopherAtl"
-      },
-      "weight": 1,
-      "count_min": 1,
-      "count_max": 1
-    },
-    {
-      "item": "ComputerCraft:treasureDisk",
-      "damage": 0,
-      "nbt": {
-        "colour^i": 11691749,
-        "subPath": "GravityScore/LuaIDE",
-        "title": "\"LuaIDE\" by GravityScore"
-      },
-      "weight": 1,
-      "count_min": 1,
-      "count_max": 1
-    },
-    {
-      "item": "ComputerCraft:treasureDisk",
-      "damage": 0,
-      "nbt": {
-        "colour^i": 10072818,
-        "subPath": "JTK/maze3d",
-        "title": "\"maze3d\" by JTK"
-      },
-      "weight": 1,
-      "count_min": 1,
-      "count_max": 1
-    },
-    {
-      "item": "ComputerCraft:treasureDisk",
-      "damage": 0,
-      "nbt": {
-        "colour^i": 5744206,
-        "subPath": "Lyqyd/nsh",
-        "title": "\"nsh\" by Lyqyd"
-      },
-      "weight": 1,
-      "count_min": 1,
-      "count_max": 1
-    },
-    {
-      "item": "ComputerCraft:treasureDisk",
-      "damage": 0,
-      "nbt": {
-        "colour^i": 13388876,
-        "subPath": "nitrogenfingers/goldrunner",
-        "title": "\"goldrunner\" by nitrogenfingers"
-      },
-      "weight": 1,
-      "count_min": 1,
-      "count_max": 1
-    },
-    {
-      "item": "ComputerCraft:treasureDisk",
-      "damage": 0,
-      "nbt": {
-        "colour^i": 13388876,
-        "subPath": "nitrogenfingers/npaintpro",
-        "title": "\"npaintpro\" by nitrogenfingers"
-      },
-      "weight": 1,
-      "count_min": 1,
-      "count_max": 1
-    },
-    {
-      "item": "ComputerCraft:treasureDisk",
-      "damage": 0,
-      "nbt": {
-        "colour^i": 10072818,
-        "subPath": "TheOriginalBIT/tictactoe",
-        "title": "\"tictactoe\" by TheOriginalBIT"
-      },
-      "weight": 1,
-      "count_min": 1,
-      "count_max": 1
-    },
-    {
-      "item": "ComputerCraft:treasureDisk",
-      "damage": 0,
-      "nbt": {
-        "colour^i": 11691749,
-        "subPath": "vilsol/gameoflife",
-        "title": "\"gameoflife\" by vilsol"
-      },
       "weight": 1,
       "count_min": 1,
       "count_max": 1
